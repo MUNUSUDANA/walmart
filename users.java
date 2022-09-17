@@ -1,4 +1,6 @@
-Hello iam from dev branchthis file contains users info
+Iam in master Branch
+Hello iam from dev branch
+this file contains users info
 
 munu
 hari
